@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_status</name>
+   <tag></tag>
+   <elementGuidId>d2880dc8-762b-4163-9f0a-24dd2bcd0644</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@name = 'status']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[name=&quot;status&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=combobox</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>31b6c985-5262-452b-9416-6633ac034133</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>status</value>
+      <webElementGuid>697910b5-8e4d-4fae-b041-394f7c9910b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>datepicker-trigger form-control hasDatepicker</value>
+      <webElementGuid>e8586cad-7328-424e-a358-5fce7bd67892</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>exibeMsg(this.value);</value>
+      <webElementGuid>f6d9c359-a3f7-41a7-b48a-ebebaf6bbea9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                      --Pilih--
+                      Revisi
+                                    Disetujui (Admin)
+                                </value>
+      <webElementGuid>af2d81d5-2bf7-4ff4-8436-c28aef0a1b0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-a24b3d9cf1922bf80e11d57a029cb2aa</value>
+      <webElementGuid>34944ede-e160-4165-87a5-fe4480382275</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@name = 'status']</value>
+      <webElementGuid>4f4441fd-80ba-4572-b016-2680624681eb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@name = 'status']</value>
+      <webElementGuid>00711c81-91bb-4eed-9085-d0bdb945389e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'status' and (text() = '
+                      --Pilih--
+                      Revisi
+                                    Disetujui (Admin)
+                                ' or . = '
+                      --Pilih--
+                      Revisi
+                                    Disetujui (Admin)
+                                ')]</value>
+      <webElementGuid>53fd67dc-96da-43d2-a4fa-e2905e8221bc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

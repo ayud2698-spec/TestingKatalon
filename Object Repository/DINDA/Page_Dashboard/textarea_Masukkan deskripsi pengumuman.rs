@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_Masukkan deskripsi pengumuman</name>
+   <tag></tag>
+   <elementGuidId>d2ded1ed-9227-4cfb-88ea-79e95c83202c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@name = 'deskripsiPengumuman' and @id = 'deskripsiPengumuman' and @placeholder = 'Masukkan deskripsi pengumuman']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'deskripsiPengumuman']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#deskripsiPengumuman</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Masukkan deskripsi pengumuman&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>3dc2b7cf-9264-4bb4-badd-41b8e8cfa1f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>b35f0c88-67e0-4933-88ff-05f2529532e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>deskripsiPengumuman</value>
+      <webElementGuid>6cc484ff-c9e3-410f-b791-a66233012f23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>4</value>
+      <webElementGuid>f21816c3-c0ef-466a-bd6a-3f828e8fbfcb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>deskripsiPengumuman</value>
+      <webElementGuid>9c9ee6aa-afcc-4fc6-b0a2-e1ae4e582265</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Masukkan deskripsi pengumuman</value>
+      <webElementGuid>6e1d4b7b-071e-4ecd-8881-2efead7a795f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oninvalid</name>
+      <type>Main</type>
+      <value>this.setCustomValidity('Harap lengkapi deskripsi')</value>
+      <webElementGuid>d7f42d21-1680-42af-9522-2fcf29c2d7ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oninput</name>
+      <type>Main</type>
+      <value>this.setCustomValidity('')</value>
+      <webElementGuid>5c3e36c7-f405-4ab4-ba02-d580c070590a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-f06165aa1f35a23a375cef573b97525c</value>
+      <webElementGuid>f775495d-266c-4650-a6fa-4f37a12e775f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'deskripsiPengumuman']</value>
+      <webElementGuid>a924d463-282d-408a-abc3-aeaac14685ff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'deskripsiPengumuman']</value>
+      <webElementGuid>46d27851-52bb-48e2-bd87-ea7277b2e5a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@name = 'deskripsiPengumuman' and @id = 'deskripsiPengumuman' and @placeholder = 'Masukkan deskripsi pengumuman']</value>
+      <webElementGuid>852d3873-0edd-40df-bb19-0c54ddc0255b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

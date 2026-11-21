@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Masukkan judul_1</name>
+   <tag></tag>
+   <elementGuidId>2c4c5d66-2ee7-4aca-a961-d83832ef5997</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'text' and @name = 'tempatPengumuman' and @id = 'tempatPengumuman' and @placeholder = 'Masukkan judul']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'tempatPengumuman']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#tempatPengumuman</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Tempat :&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>e64055d9-c608-4f23-9aa0-64b428c77edd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>903e8580-c030-4317-ba61-7d2ad7cbc12b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>tempatPengumuman</value>
+      <webElementGuid>e292b089-d9bd-4bfe-89e5-4ea3d220cc2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>tempatPengumuman</value>
+      <webElementGuid>12eedf76-5652-465b-8fa0-79394e361af0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>c7675511-be0a-4c7c-8158-0f64dbf3c330</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oninvalid</name>
+      <type>Main</type>
+      <value>this.setCustomValidity('Harap lengkapi tempat')</value>
+      <webElementGuid>db77cf9a-b38a-4775-aa89-97a65d0473a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oninput</name>
+      <type>Main</type>
+      <value>this.setCustomValidity('')</value>
+      <webElementGuid>87ff070a-b914-42de-9aa4-dc38cd30e83e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Masukkan judul</value>
+      <webElementGuid>955f511f-010b-48cd-a564-3d9bd992bf4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-391c3c0430132661cda2fea5fcbbe49e</value>
+      <webElementGuid>ee5a6483-a049-4f55-90c5-3be326a1c611</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'tempatPengumuman']</value>
+      <webElementGuid>7d279b26-2224-4cb4-8fa6-8c1a76f21ac1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'tempatPengumuman']</value>
+      <webElementGuid>9ccc4eff-a2b0-4d36-bd23-5dff8dc24c4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @name = 'tempatPengumuman' and @id = 'tempatPengumuman' and @placeholder = 'Masukkan judul']</value>
+      <webElementGuid>3c02a118-e61c-4508-b2ee-0c36ab93f2b6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

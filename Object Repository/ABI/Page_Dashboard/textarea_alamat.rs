@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_alamat</name>
+   <tag></tag>
+   <elementGuidId>a97f6af3-acfb-4ca5-8a5e-b0e6e654f59f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@name = 'alamat']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[name=&quot;alamat&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Edit Profil&quot;i >> internal:text=&quot;nganjukk&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>a08cdfbb-f600-41d3-bfad-dc43e30832e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>alamat</value>
+      <webElementGuid>eaf50347-18b2-447a-b9ab-9959e7dc7571</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>swal2-textarea</value>
+      <webElementGuid>87727df1-bfd5-44ef-acae-1619ae9b6120</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>nganjukk</value>
+      <webElementGuid>8f07def4-5cb3-4c0b-9bd9-9c34da7e9729</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-10ce58862ebb49f6acf0d56a68d6d263</value>
+      <webElementGuid>384ddae4-a52f-42cc-b1ab-d46d790e53e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@name = 'alamat']</value>
+      <webElementGuid>694910fd-54a0-495b-93dd-8a5885bfaa83</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@name = 'alamat']</value>
+      <webElementGuid>071aebc2-99b3-49b5-9a29-a1fb701b5edf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@name = 'alamat' and (text() = 'nganjukk' or . = 'nganjukk')]</value>
+      <webElementGuid>a71d3003-0852-4568-b284-c31ade4f0a8c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

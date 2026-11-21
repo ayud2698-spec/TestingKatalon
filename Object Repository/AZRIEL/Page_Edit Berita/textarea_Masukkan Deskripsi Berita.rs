@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_Masukkan Deskripsi Berita</name>
+   <tag></tag>
+   <elementGuidId>8d6bfca7-974c-4a25-9673-c4456bd5c27d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'deskripsi']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#deskripsi</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Masukkan Deskripsi Berita&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>1c4e0703-8631-424a-a36c-1f722724e86e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>03ab1c21-0366-47aa-93ec-fce82bd21aff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>deskripsi</value>
+      <webElementGuid>2392d213-753d-41f3-8873-a785c94bc90a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>6</value>
+      <webElementGuid>9209d1f6-d0bc-4319-9642-1796724e62ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>deskripsi</value>
+      <webElementGuid>3cc5cd91-f029-4c2f-8319-07dd93daa268</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Masukkan Deskripsi Berita</value>
+      <webElementGuid>c78d46e8-7e92-4664-b056-d9cc0763755a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oninvalid</name>
+      <type>Main</type>
+      <value>this.setCustomValidity('Harap lengkapi deskripsi')</value>
+      <webElementGuid>5c5900bd-ff89-4049-afd4-64f6597f04c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oninput</name>
+      <type>Main</type>
+      <value>this.setCustomValidity('')</value>
+      <webElementGuid>f8263838-2820-4fe0-bfce-eeebf54bbd8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kegiatan Edukasi Tentang Pengamalan Pancasila di Desa Sukomoro</value>
+      <webElementGuid>709d2f02-5a4e-459f-8e63-c9721af78caf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-7d78adee68b187606cd7358bb6393fdb</value>
+      <webElementGuid>408f99b6-4d8d-4eb2-a376-857219d7a0e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'deskripsi']</value>
+      <webElementGuid>746bf443-e72e-41d3-b1a7-0bec229cac4c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'deskripsi']</value>
+      <webElementGuid>4463ec81-7239-4f10-be5e-bc4ef3be3ad7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@name = 'deskripsi' and @id = 'deskripsi' and @placeholder = 'Masukkan Deskripsi Berita' and (text() = 'Kegiatan Edukasi Tentang Pengamalan Pancasila di Desa Sukomoro' or . = 'Kegiatan Edukasi Tentang Pengamalan Pancasila di Desa Sukomoro')]</value>
+      <webElementGuid>336bc91e-b6cf-4810-aa1c-251b257b3e8f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

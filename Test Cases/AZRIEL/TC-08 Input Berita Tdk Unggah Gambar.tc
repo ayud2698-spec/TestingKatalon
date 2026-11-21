@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-08 Input Berita Tdk Unggah Gambar</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>createdByName</key>
+            <value>E DINDA AYU WULAN ROMADHONI</value>
+         </entry>
+         <entry>
+            <key>createdByUuid</key>
+            <value>dc36315a-9aee-438b-b454-ea01d784fa67</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>E DINDA AYU WULAN ROMADHONI</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>dc36315a-9aee-438b-b454-ea01d784fa67</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>06013f7f-7687-4fa4-81f6-9cc53aaa7f9d</testCaseGuid>
+</TestCaseEntity>

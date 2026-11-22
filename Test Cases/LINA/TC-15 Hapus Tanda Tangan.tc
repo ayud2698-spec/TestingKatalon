@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC 5 Cetak PDF</name>
+   <name>TC-15 Hapus Tanda Tangan</name>
    <tag></tag>
    <integratedEntity>
       <productName>TESTOPS</productName>
@@ -28,5 +28,5 @@
    <comment></comment>
    <origin>WEB_RECORDER</origin>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>e4eb302d-2ecc-4eba-a6a6-e2364bf65ac1</testCaseGuid>
+   <testCaseGuid>3d5c54e4-f1e4-4af0-af23-b3ba606c5142</testCaseGuid>
 </TestCaseEntity>

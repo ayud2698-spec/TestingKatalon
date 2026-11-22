@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC 6 Revisi 2</name>
+   <name>TC-5 Cetak PDF</name>
    <tag></tag>
    <integratedEntity>
       <productName>TESTOPS</productName>
@@ -28,5 +28,5 @@
    <comment></comment>
    <origin>WEB_RECORDER</origin>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>5c2c1f33-4841-43c8-86dd-cd62f34420c1</testCaseGuid>
+   <testCaseGuid>e4eb302d-2ecc-4eba-a6a6-e2364bf65ac1</testCaseGuid>
 </TestCaseEntity>
